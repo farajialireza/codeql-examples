@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: /home/mine/Workspace/go/src/codeql-examples/example01
+baselineLinesOfCode: 42
+unicodeNewlines: false
+columnKind: utf8
+primaryLanguage: go
+creationMetadata:
+  cliVersion: 2.16.1
+  creationTime: 2024-02-05T08:22:35.749507108Z
+finalised: true
